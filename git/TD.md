@@ -127,7 +127,7 @@ class GithubIssue:
 
 
 # Votre depot d'origine
-REPO_ORIGIN = "UEVE-TECHNOLOG-2023-2024/Technolog"
+REPO_ORIGIN = "M1MIAA-2023-2024/TechLog"
 # Votre depot cible
 REPO_TARGET = ""
 # Votre access token
